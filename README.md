@@ -1,16 +1,24 @@
-### Hi there 👋
+<h2>Hey , I'm Jonas! </h2>
+<img align='right' src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="230">
+<p><em>Frontend Developer at <a href="https://github.com/sabiondigital">Sabion Digital </a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
+</em></p>
 
-<!--
-**jgalmeida93/jgalmeida93** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![Linkedin: jonas-gabriel-de-almeida](https://img.shields.io/badge/-jgalmeida-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jonas-gabriel-de-almeida-4ab460187/)](https://www.linkedin.com/in/jonas-gabriel-de-almeida-4ab460187/)  [![Gmail Badge](https://img.shields.io/badge/-jgalmeida1993@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:jgalmeida1993@gmail.com)](mailto:jgalmeida1993@gmail.com)
 
-Here are some ideas to get you started:
+###  A little more about me:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+```javascript
+const jonas = {
+    code: ["Javascript", "Typescript"],
+    askMeAbout: ["web dev", "tech", "music"],
+    technologies: {
+        frontEnd: {
+            js: ["ReactJS", "NextJS", "Gatsby"],
+            css: [ "styled-components", "materialize", "bulma", "bootstrap"]
+        },
+        backend: {
+          inProgress: true,
+        }
+    },
+};
+```
