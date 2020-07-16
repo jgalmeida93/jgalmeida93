@@ -14,7 +14,7 @@ const jonas = {
     technologies: {
         frontEnd: {
             js: ["ReactJS", "NextJS", "Gatsby"],
-            css: [ "styled-components", "materialize", "bulma", "bootstrap"]
+            css: [ "styled-components", "materialize", "bulma", "bootstrap", "tailwind"]
         },
         backend: {
           inProgress: true,
