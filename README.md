@@ -13,8 +13,8 @@ const jonas = {
     askMeAbout: ["web dev", "tech", "music"],
     technologies: {
         frontEnd: {
-            js: ["ReactJS", "NextJS", "Gatsby"],
-            css: [ "styled-components", "materialize", "bulma", "bootstrap", "tailwind"]
+            js: ["ReactJS", "NextJS", "Gatsby", "StyledComponents"],
+            css: ["Materialize", "Bulma", "Bootstrap", "Tailwind"]
         },
         backend: {
           inProgress: true,
