@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Jonas Gabriel</h1>
 <h3 align="center">A frontend developer and a curious Linux world</h3>
 
-- 🔭 I’m currently working on [Sabion Digital](https://github.com/sabiondigital)
+- 🔭 I’m currently working at [Sabion Digital](https://github.com/sabiondigital)
 
 - 🌱 I’m currently learning **Typescript, ReactJS, NodeJS**
 
