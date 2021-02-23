@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Jonas Gabriel</h1>
-<h3 align="center">A frontend developer and a curious Linux world</h3>
+<h3 align="center">A frontend developer and a curious about Linux world</h3>
 
 - 🔭 I’m currently working at [Sabion Digital](https://github.com/sabiondigital)
 
