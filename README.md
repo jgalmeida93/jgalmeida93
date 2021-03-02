@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working at [Sabion Digital](https://github.com/sabiondigital)
 
-- 🌱 I’m currently learning **Typescript**
+- 🌱 I’m currently learning **Typescript** and **NextJS**
 
 - 📫 How to reach me **jgalmeida1993@gmail.com**
 
