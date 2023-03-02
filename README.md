@@ -7,9 +7,8 @@
 </div>
 <h3 align="center">A front-end developer and a curious about Linux world</h3>
 
-- 🔭 I’m currently working at [PayGo](https://paygo.com.br/)
+- 🔭 Open to work!
 
-- 🌱 I’m currently learning **NextJS** and **TDD**
 
 
 
