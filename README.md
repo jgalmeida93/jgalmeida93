@@ -1,18 +1,19 @@
-<h1 align="center">Hey there 👋, I'm Jonas Gabriel</h1>
-<div align='center'>
-  
-[![Gmail Badge](https://img.shields.io/badge/-jgalmeida1993@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:jgalmeida1993@gmail.com)](mailto:jgalmeida1993@gmail.com)
-[![Linkedin Badge](https://img.shields.io/badge/-Jonas%20Gabriel-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jgalmeida93/)](https://www.linkedin.com/in/jgalmeida93/)
-  
-</div>
-<h3 align="center">A front-end developer and a curious about Linux world</h3>
+jgalmeida93 / README.md
+========================
 
-- 🔭 Open to work!
+# Jonas Gabriel Almeida
 
+Software Engineer @Escale.
 
+[![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff)](https://www.linkedin.com/in/jgalmeida93/)
+[![Email](https://custom-icon-badges.demolab.com/badge/Email-0A66C2?logo=gmail&logoColor=fff)](mailto:jgalmeida1993@gmail.com)
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=jgalmeida93&theme=dark&hide_border=true)](https://git.io/streak-stats)
+---
 
+Passionate about building scalable and efficient web systems with modern technologies. I work daily with stacks like Node.js, Ruby, Vue.js, React, PostgreSQL, Prisma, and AWS.
 
+Driven by curiosity, I’m always exploring how software can solve real-world problems with clarity and performance. I believe that consistent learning and strong fundamentals make a difference in both code and impact.
 
+In my spare time, I'm developing an MVP of a flashcard app that uses *spaced repetition* to optimize long-term memory retention.
 
+> "Persistence beats talent. Education is foundational, but discipline turns intention into achievement."
