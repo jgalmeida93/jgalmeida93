@@ -10,7 +10,7 @@ Software Engineer @Escale.
 
 ---
 
-Passionate about building scalable and efficient web systems with modern technologies. I work daily with stacks like Node.js, Ruby, Vue.js, React, PostgreSQL, Prisma, and AWS.
+Passionate about building scalable and efficient web systems with modern technologies. I work daily with stacks like Node.js, Ruby, Vue.js, React, PostgreSQL, Prisma and AWS.
 
 Driven by curiosity, I’m always exploring how software can solve real-world problems with clarity and performance. I believe that consistent learning and strong fundamentals make a difference in both code and impact.
 
