@@ -1,6 +1,3 @@
-jgalmeida93 / README.md
-========================
-
 # Jonas Gabriel Almeida
 
 Software Engineer @Escale.
